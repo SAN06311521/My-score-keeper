@@ -1,0 +1,24 @@
+.content {
+	text-align: center;
+	margin-right: 30%;
+	margin-left: 35%;
+	margin-top: 25%;
+	color: white;
+}
+
+
+.green {
+	color: #00ff00;
+}
+
+
+body {
+background-image: url("file:///C:/Users/indian/Desktop/JSFirstProject/final.PNG");
+background-size: cover;
+opacity: 90%;
+
+}
+
+html {
+height: 100%;
+}
